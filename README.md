@@ -1,6 +1,7 @@
 # MarioBlock
 
 Arduino project for life-size mario coin block.
+![alt tag](coin_block.jpg)
 
 # Hardware
 - Arduino Uno
