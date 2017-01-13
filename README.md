@@ -6,3 +6,5 @@ Arduino project for life-size mario coin block.
 - Arduino Uno
 - MMA7455 3-Axis Accelerometer Module
 - 8ohm speaker
+- Inflatable coin block
+- LED strips
